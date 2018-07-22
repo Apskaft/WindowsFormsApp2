@@ -20,7 +20,7 @@ namespace WindowsFormsApp2
         private void button1_Click(object sender, EventArgs e)
         {
             var xyz = MessageBox.Show("Button clicked.","Good job!", MessageBoxButtons.OK,MessageBoxIcon.Information);
-            //skit
+            //shit
         }
     }
 }
